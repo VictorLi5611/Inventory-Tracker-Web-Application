@@ -1,6 +1,6 @@
-# Shopify Backend Challege
+# Inventory Tracker Web Application
 **By Victor Li**
-This project is for Shopify Backend Developer Intership Challenge. I did this challenge for fun and to practive nodeJS, Express and mongodb. Below I will tell how to run this web application.
+This Project was used to practice nodeJS, Express and MongoDB
 # Setting up the Application
 ## Set up mongodb
   - Please download mongodb and mongodb compass
